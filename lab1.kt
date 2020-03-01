@@ -202,7 +202,7 @@ fun f30() {
 ###32
 fun f31() {
     //returns true if both of them are true
-    var x = true  flase 
+    var x = true  false 
     println(x)
 }
 
