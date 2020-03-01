@@ -308,15 +308,6 @@ fun f43() {
 
 ###45
 fun f44() {
-        println("Less than 10")
-    else
-        println("Greater than or equal to 10")
-    var score = 10
-    if (score < 10)
-}
-
-###46
-fun f45() {
     var x = true
     var y = false
     if ((x==true) and (y true)) {
@@ -324,7 +315,7 @@ fun f45() {
     }
 }
 
-###47
+###46
 fun main() {
     print("Enter text: ")
 
