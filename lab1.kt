@@ -216,7 +216,7 @@ fun f32() {
 ###34
 fun f33() {
     var a = "Silpakorn"
-    var a = "silpakorn"
+    var b = "silpakorn"
     println(a b)
 }
 
