@@ -323,3 +323,11 @@ fun f45() {
         print("Happy day")
     }
 }
+
+###47
+fun main() {
+    print("Enter text: ")
+
+    val st = readLine()
+    println("You entered: $st")
+}
